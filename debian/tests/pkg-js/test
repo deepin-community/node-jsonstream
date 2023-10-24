@@ -1,0 +1,1 @@
+tap -R tap --no-cov test/browser.js test/map.js test/null.js
